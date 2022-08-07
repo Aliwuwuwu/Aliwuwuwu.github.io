@@ -5,10 +5,23 @@
   
   <entry>
     <title></title>
+    <link href="/2022/08/07/git/"/>
+    <url>/2022/08/07/git/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><p>简介：git是一个分布式控制系统可以便利的管理文件，能让他人一起修改文件且别人的任何改动都有记录<br>指令：</p><ol><li>git config配置git相关参数 </li><li><code>git clone</code> 从远程仓库克隆一个版本到本地</li><li><code>gti init</code> 初始化项目且会在目录留下叫做git.的目录</li><li><code>git status</code> 查看本地仓库状态</li><li><code>git remote</code> 控制远程库</li><li><code>git branch</code> 操控git分支</li><li><code>git checkout</code>检出命令，用于创建、切换分支</li><li><code>git cherr-pick</code>把已经提交的记录合并到当前分支</li><li><code>git commit</code>将暂存区里的文件提交到本地仓库</li><li><code>git push</code>将本地仓库的文件提交到远程仓库</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
     <link href="/2022/07/22/pachong/"/>
     <url>/2022/07/22/pachong/</url>
     
-    <content type="html"><![CDATA[<h1 id="爬虫"><a href="#爬虫" class="headerlink" title="爬虫"></a>爬虫</h1><p>1 </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="爬虫"><a href="#爬虫" class="headerlink" title="爬虫"></a>爬虫</h1><p>1 写请求先找到要爬网站的url</p>]]></content>
     
     
     
